@@ -1,0 +1,68 @@
+Question No., Correct Option, Answer
+
+1> a,  GridSearchCV()
+
+2> d, All of the above
+
+3> d,  kernel will be changed to linear 
+
+4> d, None of the above
+
+5> c, In case of classification problem, the prediction is made by taking mode
+      of the class labels predicted by the component trees.
+6> a, Gradient Descent algorithm can diverge from the optimal solution.
+
+7> a, Bias will increase, Variance decrease
+
+8> c, model is performing good
+
+SUBJECTIVE QUESTION ANSWER
+
+9>Answer:-
+
+
+10>Answer:- Random forest are more strong modeling technique and much more robust than 
+            a single decision tree. Random forest aggregate many decision trees to limit
+            overfitting as well as error due to bias and therefore produce useful result.
+
+	  - It is one of the most accurate learning algorithms available. For many data 
+            set it produces a highly accurate classifier. It runs efficiently on large 
+            databases.
+
+11>Answer:- It is a step of Data pre processing which is applied to individual varialble
+            or features of data. It is basically healps to normalise the data within a 
+            particular range.Sometime, it help to speed up the calculations of algorithm.
+
+            Name of two techniques used for scaling is:
+           i> Standardm Scaler
+           ii> Robust Scaler
+
+12>Answer:- Optimization algorithm that is not iterative and simply solves for one point.
+   
+          - Optimization algorithm that is iterative in nature and converges to acceptable
+            solution regardless of the parameters initialization such as gradient descent
+            applied to logistic regression.
+
+13>Answer:- When dataset is highly imbalanced for as calssification problem, is accuracy
+            is a good metric to measure the performance of the model is not because most
+            of the time if we consider only accuracy performace then we can not got result.
+            If we want to a good result then we need check presion, recall, AUC basiese of 
+            when these all provide good accuracy then we consider those particula model is
+            is good.
+
+14>Answer:- In statistical analysis of binary classification, the F1 score is a measure of a
+            test's accuracy.It is calculated from the precision and recall of the test, 
+            where the precision is the number of correctly identified positive results 
+            divided by the number of all positive results,including those not identified
+            correctly, and the recall is the number of correctly identified positive results
+            divided by the number of all samples that should have been identified as positive.
+
+           - Mathematical formula:
+                                   F1-Score=2.precision . recall/precision + recall
+
+15>Answer:- fit()= fit function that calculate the value of the parameter.
+
+           -transform() transform functio applied value of the prameter of the actual data
+            and give the normalized value.
+
+          - fit_transform() function performs both in the same step.
